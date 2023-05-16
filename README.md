@@ -8,6 +8,8 @@
 
 <p align="left"> <a href="https://github.com/mohamedoh/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mohamedoh" alt="mohamedoh" /></a> </p>
 
+[![Sparkline](https://stars.medv.io/Naereen/badges.svg)](https://stars.medv.io/Naereen/badges)
+
 
 - 🔭 I’m currently working on **OCR, Computer Vision, Deep Text Recognition** 
 
@@ -57,3 +59,4 @@
   <a href="https://colab.research.google.com" target="_blank"> <img src="https://colab.research.google.com/img/colab_favicon_256px.png" alt="redis" width="40" height="40"/>  
   <a href="https://www.selenium.dev" target="_blank"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> 
    </p>
+  
