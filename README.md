@@ -8,7 +8,6 @@
 
 <p align="left"> <a href="https://github.com/mohamedoh/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mohamedoh" alt="mohamedoh" /></a> </p>
 
-[![Sparkline](https://stars.medv.io/Naereen/badges.svg)](https://stars.medv.io/Naereen/badges)
 
 
 - 🔭 I’m currently working on **OCR, Computer Vision, Deep Text Recognition** 
