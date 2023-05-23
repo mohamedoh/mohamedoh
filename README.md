@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mohamed Ouledhamed.</h1>
-<h3 align="center">A passionate AI🧠/ML👨‍💻, Data 📊, Computer Vision 🏴, and performance 💯 Computer Engineering Student 👨‍🔧 from Medenine 🌉, Tunisia. </h3>
+<h3 align="center">A passionate AI🧠/ML👨‍💻, Data 📊, Computer Vision 🏴, and performance 💯 from Tunisia. </h3>
 <h3 align="center">IBM Certified Professional in Data Science and AI</h3>
 <h3 align="center">Data Science Engineer @NEURODATA, Freelancer @Upwork</h3>
 
