@@ -1,13 +1,6 @@
 <h1 align="center">Hi 👋, I'm Mohamed Ouledhamed</h1>
 <h3 align="center">AI Engineer | Multimodal AI | Document Intelligence | RAG Systems</h3>
 <h4 align="center">IBM Certified Professional in Data Science and AI</h4>
-
-<p align="center">
-  <a href="https://github.com/mohamedoh/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=mohamedoh&theme=algolia" alt="mohamedoh trophies"/>
-  </a>
-</p>
-
 ---
 
 ### 🚀 About Me  
