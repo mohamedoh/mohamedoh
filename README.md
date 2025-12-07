@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mohamed Ouledhamed</h1>
 <h3 align="center">AI Engineer | Multimodal AI | Document Intelligence | RAG Systems</h3>
 <h4 align="center">IBM Certified Professional in Data Science and AI</h4>
+
 ---
 
 ### 🚀 About Me  
@@ -44,8 +45,5 @@
 
 ---
 
-### 📊 GitHub Stats  
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mohamedoh&theme=tokyonight" />
-</p>
+
 
